@@ -1,0 +1,33 @@
+[Colors:Selection]
+BackgroundR=0
+BackgroundG=188
+BackgroundB=212
+ForegroundR=0
+ForegroundG=0
+ForegroundB=0
+
+[Colors:TooltipBackground]
+BackgroundR=45
+BackgroundG=45
+BackgroundB=45
+ForegroundR=255
+ForegroundG=255
+ForegroundB=255
+
+[Colors:ComplementaryBackground]
+BackgroundR=25
+BackgroundG=25
+BackgroundB=25
+
+[General]
+ColorScheme=MalazanDark
+Name=Malazan Dark
+ShadeSortColumn=true
+
+[KDE]
+LookAndFeel=org.kde.malazandark.desktop
+Style=kvantum
+Font=Noto Sans,10,-1,5,50,0,0,0,0,0
+
+[WM]
+activeFont=Noto Sans,10,-1,5,50,0,0,0,0,0

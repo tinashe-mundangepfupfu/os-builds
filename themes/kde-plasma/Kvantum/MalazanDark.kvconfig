@@ -1,0 +1,54 @@
+[General]
+# Malazan Dark theme for Kvantum
+# Inspired by the ancient, brooding atmosphere of the Malazan world
+
+[Colors]
+# Window background
+window.color=30,30,30
+window.text.color=255,255,255
+
+# Button
+button.color=45,45,45
+button.text.color=255,255,255
+button.hover.color=53,53,53
+button.pressed.color=35,35,35
+
+# Selection
+selection.background.color=0,188,212
+selection.text.color=0,0,0
+selection.inactive.background.color=45,45,45
+selection.inactive.text.color=128,128,128
+
+# Header
+header.background.color=45,45,45
+header.text.color=255,255,255
+
+# Tooltip
+tooltip.background.color=45,45,45
+tooltip.text.color=255,255,255
+
+# Menu
+menu.background.color=30,30,30
+menu.text.color=255,255,255
+menu.hover.background.color=45,45,45
+menu.hover.text.color=255,255,255
+
+# Title bar
+titlebar.active.background.color=30,30,30
+titlebar.active.text.color=255,255,255
+titlebar.inactive.background.color=45,45,45
+titlebar.inactive.text.color=128,128,128
+
+# Borders
+frame.border.color=0,0,0
+frame.border.width=1
+
+# Focus
+focus.color=0,188,212
+focus.text.color=0,0,0
+
+[Hacks]
+# Blur and transparency
+blur=true
+blur.offset=10
+transparency=true

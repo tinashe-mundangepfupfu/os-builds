@@ -1,0 +1,11 @@
+GRUB_DISTRIBUTOR="Oponn"
+GRUB_TIMEOUT=5
+GRUB_DISTRIBUTOR="Oponn"
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash mitigations=off preempt=full rcu_nocbs=0-7"
+GRUB_CMDLINE_LINUX="mitigations=off preempt=full rcu_nocbs=0-7"
+GRUB_DEFAULT=0
+GRUB_DISABLE_RECOVERY=false
+GRUB_DISABLE_SUBMENU=y
+GRUB_THEME="/boot/grub/theme.txt"
+GRUB_GFXMODE=1920x1080
+GRUB_GFXPAYLOAD_LINUX=1920x1080
